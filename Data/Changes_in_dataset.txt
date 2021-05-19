@@ -1,0 +1,14 @@
+satisfaction_v2 --> Satisfaction
+0 = neutral or dissatisfied
+1 = satisfied
+
+Gender
+0 = Male
+1 = Female
+
+Customer Type --> Customer_Type
+
+Type of Travel --> Type_of_Travel
+
+Class
+
