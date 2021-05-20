@@ -15,4 +15,6 @@ Type of Travel --> Type_of_Travel
 1 = Business travel
 
 Class
-
+0 = Eco
+1 = Eco Plus
+2 = Business
